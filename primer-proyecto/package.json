@@ -1,0 +1,12 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Mi primer trabajo",
+  "main": "index.js",
+  "scripts": {
+    "Nombre": "Larisa Soto",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MM",
+  "license": "ISC"
+}
